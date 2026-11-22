@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pymongo
+requests
+httpx
+pandas
+scikit-learn
+plotly
+python-dotenv
+authlib
+itsdangerous
